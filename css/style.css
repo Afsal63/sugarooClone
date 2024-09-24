@@ -8200,7 +8200,10 @@ button.ps-btn--fullwidth {
     position: absolute;
     display: block;
     float: right;
-    top: 50%;
+    background: #5c5cc1;
+    height: 25px;
+    border-radius: 13px;
+    top: 60%;
     right: 15px;
     -webkit-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
